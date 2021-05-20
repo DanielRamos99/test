@@ -4,7 +4,7 @@ int main(){
     char name[100];
     unsigned int age;
 
-    printf("Hello world\n");
+    // printf("Hello world\n");
     printf("Name: ");
     fgets(name, sizeof(name), stdin);
 
